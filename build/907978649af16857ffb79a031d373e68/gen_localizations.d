@@ -1,0 +1,1 @@
+ /home/matthew/Documents/Dev/booty_call/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /home/matthew/Documents/Dev/booty_call/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /home/matthew/Documents/Dev/booty_call/l10n.yaml /home/matthew/Documents/Dev/booty_call/lib/src/localization/app_en.arb
